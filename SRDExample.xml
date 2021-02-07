@@ -127,7 +127,7 @@ Source: Somewhere</text>
     <description>Dragon Boi
 
 Source: Somewhere</description>
-    <environment>swamp</environment>
+    <environment>bad places</environment>
     </monster>
   <monster>
       <name>Boar</name>
@@ -168,7 +168,7 @@ Source: Somewhere</description>
       </action>
     <description>
 Source: Somewhere</description>
-    <environment>grassland, forest, hill</environment>
+    <environment>nature</environment>
     </monster>
   <monster>
       <name>Drow</name>
@@ -226,6 +226,6 @@ Source: Somewhere</description>
     <spells>dancing lights, darkness, faerie fire</spells>
     <description>A story about drow
 Source: Somewhere</description>
-    <environment>underdark</environment>
+    <environment>dark places</environment>
     </monster>
   </compendium>

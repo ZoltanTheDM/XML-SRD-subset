@@ -112,18 +112,6 @@ Source: Somewhere</text>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
-        <name>Lair Actions</name>
-      </legendary>
-    <legendary>
-      <text>Here would be lair actions that are not apart of the SRD</text>
-      </legendary>
-    <legendary>
-        <name>Regional Effects</name>
-      </legendary>
-    <legendary>
-        <text>Here is an example of regional effects that are not apart of the SRD</text>
-      </legendary>
     <description>Dragon Boi
 
 Source: Somewhere</description>
